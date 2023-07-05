@@ -22,5 +22,7 @@ images:
 - doc/html/ATmegaTQ6401A.cs_files/image005.png
 - doc/html/ATmegaTQ6401A.cs_files/image006.png
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: ATmegaTQ6401
