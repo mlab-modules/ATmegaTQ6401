@@ -4,23 +4,23 @@ github_repo: ATmegaTQ6401
 github_url: https://github.com/mlab-modules/ATmegaTQ6401
 homepage: false
 images:
-- doc/img/ATmegaTQ6401A_top_small.jpg
-- doc/img/ATmegaTQ6401A_top_big.jpg
-- doc/img/ATmegaTQ6401A_Bot_big.jpg
 - doc/img/ATmegaTQ6401A_Bot_small.jpg
-- doc/html/ATmegaTQ6401A.cs_files/image008.jpg
-- doc/html/ATmegaTQ6401A.cs_files/image001.jpg
+- doc/img/ATmegaTQ6401A_top_big.jpg
+- doc/img/ATmegaTQ6401A_top_small.jpg
+- doc/img/ATmegaTQ6401A_Bot_big.jpg
 - doc/html/ATmegaTQ6401A.cs_files/image002.jpg
+- doc/html/ATmegaTQ6401A.cs_files/image008.jpg
 - doc/html/ATmegaTQ6401A.cs_files/image007.jpg
-- hw/cam_doc/ATmegaTQ6401A_top_small.jpg
-- hw/cam_doc/ATmegaTQ6401A_top_big.jpg
-- hw/cam_doc/ATmegaTQ6401A_Bot_big.jpg
+- doc/html/ATmegaTQ6401A.cs_files/image001.jpg
 - hw/cam_doc/ATmegaTQ6401A_Bot_small.jpg
+- hw/cam_doc/ATmegaTQ6401A_top_big.jpg
+- hw/cam_doc/ATmegaTQ6401A_top_small.jpg
+- hw/cam_doc/ATmegaTQ6401A_Bot_big.jpg
 - doc/img/ATmegaTQ6401A_QRcode.png
 - doc/html/ATmegaTQ6401A.cs_files/image003.png
-- doc/html/ATmegaTQ6401A.cs_files/image004.png
 - doc/html/ATmegaTQ6401A.cs_files/image005.png
 - doc/html/ATmegaTQ6401A.cs_files/image006.png
+- doc/html/ATmegaTQ6401A.cs_files/image004.png
 mark: 50
 tags:
 - mlab
